@@ -385,3 +385,5 @@ button.accordion-button::after {color:white}
 .doclink{line-height: 2em;font-size:1.2em}
 
 .red{ color: var(--primary);}
+
+.salesteam{border:solid 1px silver;width:60%;}
